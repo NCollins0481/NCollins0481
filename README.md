@@ -3,6 +3,6 @@ I am a Mathematics Researcher/Instructor studying tensor decompositions associat
 
 # Background
 - M.S. in Mathematics from Colorado State University.
-- - Thesis: _A TIZ-Correspondance Adjusted for Symmetry_
+    -  Thesis: _A TIZ-Correspondance Adjusted for Symmetry_
 - B.A. in Mathematics from University of Colorado Boulder.
-- - Thesis: _Count-Free Weisfeiler--Leman and Group Isomorphism_
+    - Thesis: _Count-Free Weisfeiler--Leman and Group Isomorphism_
